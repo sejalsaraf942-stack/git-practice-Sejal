@@ -1,2 +1,4 @@
 I am learning Git and Github.
-Git tracks changes in my files.
+Git tracks changes in my files.\
+
+This line was added on a feature branch to notes.txt.
